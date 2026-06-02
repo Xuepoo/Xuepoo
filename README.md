@@ -3,7 +3,6 @@
 Software Engineering Student · Rust & Python · AI Agent Enthusiast
 
 </div>
----
 
 **About**
 
