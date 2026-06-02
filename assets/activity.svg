@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 280" width="320" height="280">
+  <!-- Background border: top and left edges -->
+  <line x1="20" y1="10" x2="300" y2="10" stroke="#d0d7de" stroke-width="1" />
+  <line x1="20" y1="10" x2="20" y2="260" stroke="#d0d7de" stroke-width="1" />
+  <!-- Bottom faint line -->
+  <line x1="20" y1="260" x2="300" y2="260" stroke="#d0d7de" stroke-width="0.5" />
+
+  <!-- Axes intersection center -->
+  <!-- cx=160, cy=135 -->
+
+  <!-- Vertical axis: Code review (top) to Pull requests (bottom) -->
+  <line x1="160" y1="35" x2="160" y2="235" stroke="#1a7f37" stroke-width="1.5" />
+
+  <!-- Horizontal axis: Commits (left) to Issues (right) -->
+  <line x1="55" y1="135" x2="265" y2="135" stroke="#1a7f37" stroke-width="1.5" />
+
+  <!-- Thick green fill: Commits side (left to center) -->
+  <line x1="55" y1="135" x2="160" y2="135" stroke="#1a7f37" stroke-width="6" stroke-linecap="round" />
+
+  <!-- Hollow green circle at Commits end -->
+  <circle cx="55" cy="135" r="7" fill="white" stroke="#1a7f37" stroke-width="2.5" />
+
+  <!-- Labels -->
+  <!-- Top: Code review -->
+  <text x="160" y="25" text-anchor="middle" fill="#656d76" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13">Code review</text>
+
+  <!-- Bottom: Pull requests -->
+  <text x="160" y="255" text-anchor="middle" fill="#656d76" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13">Pull requests</text>
+
+  <!-- Right: Issues -->
+  <text x="280" y="139" text-anchor="start" fill="#656d76" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13">Issues</text>
+
+  <!-- Left: 100% + Commits -->
+  <text x="38" y="127" text-anchor="end" fill="#656d76" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13">100%</text>
+  <text x="38" y="145" text-anchor="end" fill="#656d76" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13">Commits</text>
+</svg>
