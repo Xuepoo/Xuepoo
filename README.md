@@ -32,11 +32,11 @@ Software Engineering Student · Rust & Python · AI Agent Enthusiast
 **Stats**
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Xuepoo&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" width="480" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Xuepoo&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" width="480" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/top-langs/?username=Xuepoo&layout=compact&count_private=true&theme=tokyonight&hide_border=true" width="320" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/top-langs/?username=Xuepoo&layout=compact&theme=tokyonight&hide_border=true" width="320" alt="Top Languages" />
 </div>
 
 ---
