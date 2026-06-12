@@ -29,10 +29,14 @@ Software Engineering Student · Rust & Python · AI Agent Enthusiast
 
 ---
 
-**Activity**
+**Stats**
 
 <div align="center">
-<img src="./assets/activity.svg" width="260" alt="activity chart" />
+<img src="https://github-readme-stats.vercel.app/api?username=Xuepoo&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" width="480" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/top-langs/?username=Xuepoo&layout=compact&count_private=true&theme=tokyonight&hide_border=true" width="320" alt="Top Languages" />
 </div>
 
 ---
@@ -51,6 +55,6 @@ scoop bucket add Xuepoo https://github.com/Xuepoo/scoop-bucket && scoop install 
 
 <div align="center">
 
-[GitHub](https://github.com/Xuepoo) · [Email](mailto:your-email@example.com)
+[GitHub](https://github.com/Xuepoo) · [Email](mailto:xuepoofoter@gmail.com) · WeChat: xuepoo_foter · [X](https://x.com/xuepoofoter)
 
 </div>
