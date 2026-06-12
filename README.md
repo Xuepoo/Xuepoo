@@ -51,6 +51,6 @@ scoop bucket add Xuepoo https://github.com/Xuepoo/scoop-bucket && scoop install 
 
 <div align="center">
 
-[GitHub](https://github.com/Xuepoo) · [Email](mailto:xuepoofoter@gmail.com) · WeChat: xuepoo_foter · [X](https://x.com/xuepoofoter)
+[GitHub](https://github.com/Xuepoo) · [Email](mailto:xuepoofoter@gmail.com) · WeChat: xuepoo_foter · [X](https://x.com/ShowHiro_Aya)
 
 </div>
