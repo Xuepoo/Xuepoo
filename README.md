@@ -1,13 +1,13 @@
 <div align="left">
   
-Software Engineering Student · Rust & Python · AI Agent Enthusiast
+I'm a software engineering student, 21 years old.
 
 </div>
 
 **About**
 
-- Software engineering undergraduate, building tools for music aesthetics, Wayland compositors, and LLM-powered workflows
-- Rust · Python · Go · Linux (CachyOS/Arch)
+- Software engineering undergraduate, building tools for music aesthetics, Wayland compositors, LLM-powered workflows and so on
+- Rust · Python · Java · Linux
 - Off-screen: mystery novels, manga, music
 
 ---
