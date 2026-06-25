@@ -1,6 +1,6 @@
 <div align="left">
   
-I'm a software engineering student, 21 years old.
+I'm a software engineering student.
 
 </div>
 
