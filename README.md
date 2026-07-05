@@ -7,7 +7,7 @@ I'm a software engineering student.
 **About**
 
 - Software engineering undergraduate, building tools for music aesthetics, Wayland compositors, LLM-powered workflows and so on
-- Rust · Python · Java · Linux
+- Rust · Python · Java · JavaScript/TypeScript · Linux
 - Off-screen: mystery novels, manga, music
 
 ---
@@ -25,14 +25,6 @@ I'm a software engineering student.
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![WebAssembly](https://img.shields.io/badge/-Wasm-654FF0?style=flat-square&logo=webassembly&logoColor=white)
 
-</div>
-
----
-
-**Stats**
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Xuepoo&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" width="480" alt="GitHub Stats" />
 </div>
 
 ---
