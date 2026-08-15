@@ -1,6 +1,6 @@
 <div align="center">
 
-# Xuepoo
+# Hi, I'm Xuepoo
 
 [![Fish](https://img.shields.io/badge/Shell-Fish-25c2a0?style=flat-square&logo=fishshell&logoColor=white)](https://fishshell.com/)
 [![Neovim](https://img.shields.io/badge/Editor-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)](https://neovim.io/)
