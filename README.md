@@ -14,7 +14,7 @@
 <br/><br/>
 
 <!-- 📊 Stats & Language Breakdown -->
-<img src="https://github-readme-stats.vercel.app/api?username=Xuepoo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48.5%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Xuepoo&show_icons=true&theme=tokyonight&hide_border=true" width="48.5%" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xuepoo&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=html,css" width="48.5%" alt="Top Languages" />
 
 <br/>
