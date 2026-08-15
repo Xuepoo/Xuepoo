@@ -57,7 +57,7 @@ scoop bucket add Xuepoo https://github.com/Xuepoo/scoop-bucket && scoop install 
 </p>
 
 <details>
-  <summary><b>📱 WeChat (扫码交流 / 技术探讨)</b></summary>
+  <summary><b>📱 WeChat</b></summary>
   <br/>
   <img src="https://cdn.xuepoo.xyz/social/wechat-qrcode.webp" width="220px" alt="WeChat QR Code" />
 </details>
