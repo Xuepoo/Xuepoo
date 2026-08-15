@@ -36,7 +36,7 @@
 <!-- EXTERNAL_CONTRIBUTIONS:START -->
 | Repository | Contribution / PR | Merged Date |
 | :--- | :--- | :---: |
-| *Tracking merged contributions...* | - | - |
+| *No external contributions recorded yet* | - | - |
 <!-- EXTERNAL_CONTRIBUTIONS:END -->
 
 ### 📦 Package Installation
