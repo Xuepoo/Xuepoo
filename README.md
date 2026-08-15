@@ -33,11 +33,11 @@
 
 ### 🚀 Contributed Repositories
 
-
+<!-- EXTERNAL_CONTRIBUTIONS:START -->
 | Repository | Contribution / PR | Merged Date |
 | :--- | :--- | :---: |
-| *No external contributions recorded yet* | - | - |
-
+| *Tracking merged contributions...* | - | - |
+<!-- EXTERNAL_CONTRIBUTIONS:END -->
 
 ### 📦 Package Installation
 
