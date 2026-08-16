@@ -20,10 +20,6 @@
 <img src="https://raw.githubusercontent.com/Xuepoo/Xuepoo/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="48.5%" alt="Repos Per Language" />
 <img src="https://raw.githubusercontent.com/Xuepoo/Xuepoo/main/profile-summary-card-output/tokyonight/3-stats.svg" width="48.5%" alt="Stats Card" />
 
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Xuepoo&theme=tokyonight&hide_border=true" width="98%" alt="GitHub Streak" />
-
 </div>
 
 ### 🛠️ Repositories
