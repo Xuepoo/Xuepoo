@@ -14,8 +14,11 @@
 <br/><br/>
 
 <!-- 📊 Stats & Language Breakdown -->
-<img src="https://github-readme-stats.vercel.app/api?username=Xuepoo&show_icons=true&theme=tokyonight&hide_border=true" width="48.5%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xuepoo&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=html,css" width="48.5%" alt="Top Languages" />
+<img src="https://raw.githubusercontent.com/Xuepoo/Xuepoo/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="48.5%" alt="Profile Details" />
+<img src="https://raw.githubusercontent.com/Xuepoo/Xuepoo/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="48.5%" alt="Most Commit Language" />
+<br/>
+<img src="https://raw.githubusercontent.com/Xuepoo/Xuepoo/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="48.5%" alt="Repos Per Language" />
+<img src="https://raw.githubusercontent.com/Xuepoo/Xuepoo/main/profile-summary-card-output/tokyonight/3-stats.svg" width="48.5%" alt="Stats Card" />
 
 <br/>
 
