@@ -20,13 +20,13 @@ jobs:
         run: |
           set -euo pipefail
 
-          # Fetch up to 10 latest merged PRs in external repositories
+          # Fetch up to 10 latest merged PRs in external repositories (excluding personal and own org repos)
           prs_json=$(gh search prs \
             --author="${{ github.repository_owner }}" \
             --merged \
             --limit 10 \
             --json title,url,repository,closedAt \
-            -- "-user:${{ github.repository_owner }}")
+            -- "-user:${{ github.repository_owner }}" "-owner:vectojs" "-owner:vemjs")
 
           # Format into markdown table
           python3 -c "

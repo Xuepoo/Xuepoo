@@ -35,16 +35,13 @@
 <!-- EXTERNAL_CONTRIBUTIONS:START -->
 | Repository | Contribution / PR | Merged Date |
 | :--- | :--- | :---: |
-| [**vectojs/vectojs-skills**](https://github.com/vectojs/vectojs-skills) | [docs: update graph layout version](https://github.com/vectojs/vectojs-skills/pull/9) | `2026-08-17` |
-| [**vectojs/vectojs-website**](https://github.com/vectojs/vectojs-website) | [docs: update published graph versions](https://github.com/vectojs/vectojs-website/pull/40) | `2026-08-17` |
-| [**vectojs/vectojs-docs**](https://github.com/vectojs/vectojs-docs) | [docs: update graph package versions](https://github.com/vectojs/vectojs-docs/pull/4) | `2026-08-17` |
-| [**vectojs/vectojs**](https://github.com/vectojs/vectojs) | [chore(release): graph-layout 0.2.0 and knowledge-graph 0.3.0](https://github.com/vectojs/vectojs/pull/558) | `2026-08-17` |
-| [**vectojs/vectojs-skills**](https://github.com/vectojs/vectojs-skills) | [docs: teach graph skills new APIs](https://github.com/vectojs/vectojs-skills/pull/8) | `2026-08-17` |
-| [**vectojs/vectojs-website**](https://github.com/vectojs/vectojs-website) | [docs: publish graph API references](https://github.com/vectojs/vectojs-website/pull/39) | `2026-08-17` |
-| [**vectojs/vectojs-docs**](https://github.com/vectojs/vectojs-docs) | [docs: document graph mutation and model APIs](https://github.com/vectojs/vectojs-docs/pull/3) | `2026-08-17` |
-| [**vectojs/vectojs**](https://github.com/vectojs/vectojs) | [chore(graph-layout): separate tests and remove demo](https://github.com/vectojs/vectojs/pull/556) | `2026-08-17` |
-| [**vectojs/vectojs-gallery**](https://github.com/vectojs/vectojs-gallery) | [fix(chat): keep FPS at display cadence](https://github.com/vectojs/vectojs-gallery/pull/23) | `2026-08-17` |
-| [**vectojs/vectojs-gallery**](https://github.com/vectojs/vectojs-gallery) | [feat(chat): add canvas-native document search](https://github.com/vectojs/vectojs-gallery/pull/21) | `2026-08-17` |
+| [**alpinejs/alpine**](https://github.com/alpinejs/alpine) | [fix(persist): don't persist undefined values](https://github.com/alpinejs/alpine/pull/4876) | `2026-08-12` |
+| [**konvajs/konva**](https://github.com/konvajs/konva) | [fix(Line): getSelfRect wrong for multi-segment bezier](https://github.com/konvajs/konva/pull/2061) | `2026-08-15` |
+| [**konvajs/konva**](https://github.com/konvajs/konva) | [fix(Util): colorToRGBA() fails to parse non-integer HSL hue](https://github.com/konvajs/konva/pull/2059) | `2026-08-08` |
+| [**Simon-He95/markstream-vue**](https://github.com/Simon-He95/markstream-vue) | [fix: preserve user selection across streaming delta settles (Vue + React)](https://github.com/Simon-He95/markstream-vue/pull/623) | `2026-08-08` |
+| [**Simon-He95/markstream-vue**](https://github.com/Simon-He95/markstream-vue) | [fix: scope LaTeX-command reconstruction to math contexts; fix list-fence html tail](https://github.com/Simon-He95/markstream-vue/pull/621) | `2026-08-08` |
+| [**Simon-He95/markstream-vue**](https://github.com/Simon-He95/markstream-vue) | [fix: only strip a trailing fence-marker line from unclosed fence content](https://github.com/Simon-He95/markstream-vue/pull/617) | `2026-08-08` |
+| [**weizhenye/Danmaku**](https://github.com/weizhenye/Danmaku) | [fix: don't scale collision detection by playbackRate](https://github.com/weizhenye/Danmaku/pull/66) | `2026-08-08` |
 <!-- EXTERNAL_CONTRIBUTIONS:END -->
 
 ### 📦 Package Installation
