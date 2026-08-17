@@ -33,15 +33,12 @@
 ### 🚀 Contributed Repositories
 
 <!-- EXTERNAL_CONTRIBUTIONS:START -->
-| Repository | Contribution / PR | Merged Date |
-| :--- | :--- | :---: |
-| [**alpinejs/alpine**](https://github.com/alpinejs/alpine) | [fix(persist): don't persist undefined values](https://github.com/alpinejs/alpine/pull/4876) | `2026-08-12` |
-| [**konvajs/konva**](https://github.com/konvajs/konva) | [fix(Line): getSelfRect wrong for multi-segment bezier](https://github.com/konvajs/konva/pull/2061) | `2026-08-15` |
-| [**konvajs/konva**](https://github.com/konvajs/konva) | [fix(Util): colorToRGBA() fails to parse non-integer HSL hue](https://github.com/konvajs/konva/pull/2059) | `2026-08-08` |
-| [**Simon-He95/markstream-vue**](https://github.com/Simon-He95/markstream-vue) | [fix: preserve user selection across streaming delta settles (Vue + React)](https://github.com/Simon-He95/markstream-vue/pull/623) | `2026-08-08` |
-| [**Simon-He95/markstream-vue**](https://github.com/Simon-He95/markstream-vue) | [fix: scope LaTeX-command reconstruction to math contexts; fix list-fence html tail](https://github.com/Simon-He95/markstream-vue/pull/621) | `2026-08-08` |
-| [**Simon-He95/markstream-vue**](https://github.com/Simon-He95/markstream-vue) | [fix: only strip a trailing fence-marker line from unclosed fence content](https://github.com/Simon-He95/markstream-vue/pull/617) | `2026-08-08` |
-| [**weizhenye/Danmaku**](https://github.com/weizhenye/Danmaku) | [fix: don't scale collision detection by playbackRate](https://github.com/weizhenye/Danmaku/pull/66) | `2026-08-08` |
+| Repository | Language | Description |
+| :--- | :---: | :--- |
+| [**alpinejs/alpine**](https://github.com/alpinejs/alpine) | `HTML` | A rugged, minimal framework for composing JavaScript behavior in your markup. |
+| [**konvajs/konva**](https://github.com/konvajs/konva) | `TypeScript` | Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications. |
+| [**Simon-He95/markstream-vue**](https://github.com/Simon-He95/markstream-vue) | `Vue` | Multi-framework streaming Markdown renderers for AI apps: Vue/Nuxt, React/Next.js, Svelte, and Angular, with Mermaid, KaTeX, Shiki, Monaco, safe HTML, and low-jitter updates. |
+| [**weizhenye/Danmaku**](https://github.com/weizhenye/Danmaku) | `JavaScript` | A high-performance JavaScript danmaku engine. 高性能弹幕引擎库 |
 <!-- EXTERNAL_CONTRIBUTIONS:END -->
 
 ### 📦 Package Installation

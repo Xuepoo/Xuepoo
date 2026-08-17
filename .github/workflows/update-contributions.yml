@@ -20,17 +20,17 @@ jobs:
         run: |
           set -euo pipefail
 
-          # Fetch up to 10 latest merged PRs in external repositories (excluding personal and own org repos)
+          # Fetch up to 30 latest merged PRs in external repositories (excluding personal and own org repos)
           prs_json=$(gh search prs \
             --author="${{ github.repository_owner }}" \
             --merged \
-            --limit 10 \
-            --json title,url,repository,closedAt \
+            --limit 30 \
+            --json repository \
             -- "-user:${{ github.repository_owner }}" "-owner:vectojs" "-owner:vemjs")
 
           # Format into markdown table
           python3 -c "
-          import json, re
+          import json, re, subprocess
 
           raw = '''$prs_json'''
           try:
@@ -38,17 +38,29 @@ jobs:
           except Exception:
               data = []
 
-          header = '| Repository | Contribution / PR | Merged Date |\n| :--- | :--- | :---: |'
-          if not data:
+          # Extract unique repositories
+          repo_names = []
+          seen = set()
+          for item in data:
+              name = item.get('repository', {}).get('nameWithOwner')
+              if name and name not in seen:
+                  seen.add(name)
+                  repo_names.append(name)
+
+          header = '| Repository | Language | Description |\n| :--- | :---: | :--- |'
+          if not repo_names:
               table = f'{header}\n| *No external contributions recorded yet* | - | - |'
           else:
               rows = [header]
-              for item in data:
-                  repo = item.get('repository', {}).get('nameWithOwner', '')
-                  title = item.get('title', '').strip().replace('|', '-')
-                  url = item.get('url', '')
-                  date = (item.get('closedAt') or '')[:10]
-                  rows.append(f'| [**{repo}**](https://github.com/{repo}) | [{title}]({url}) | \`{date}\` |')
+              for repo in repo_names:
+                  try:
+                      res = subprocess.run(['gh', 'repo', 'view', repo, '--json', 'description,primaryLanguage'], capture_output=True, text=True)
+                      meta = json.loads(res.stdout) if res.stdout else {}
+                  except Exception:
+                      meta = {}
+                  lang = meta.get('primaryLanguage', {}).get('name') if meta.get('primaryLanguage') else 'Unknown'
+                  desc = (meta.get('description') or '').strip().replace('|', '-')
+                  rows.append(f'| [**{repo}**](https://github.com/{repo}) | \`{lang}\` | {desc} |')
               table = '\n'.join(rows)
 
           with open('README.md', 'r', encoding='utf-8') as f:
