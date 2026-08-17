@@ -35,7 +35,16 @@
 <!-- EXTERNAL_CONTRIBUTIONS:START -->
 | Repository | Contribution / PR | Merged Date |
 | :--- | :--- | :---: |
-| *No external contributions recorded yet* | - | - |
+| [**vectojs/vectojs-skills**](https://github.com/vectojs/vectojs-skills) | [docs: update graph layout version](https://github.com/vectojs/vectojs-skills/pull/9) | `2026-08-17` |
+| [**vectojs/vectojs-website**](https://github.com/vectojs/vectojs-website) | [docs: update published graph versions](https://github.com/vectojs/vectojs-website/pull/40) | `2026-08-17` |
+| [**vectojs/vectojs-docs**](https://github.com/vectojs/vectojs-docs) | [docs: update graph package versions](https://github.com/vectojs/vectojs-docs/pull/4) | `2026-08-17` |
+| [**vectojs/vectojs**](https://github.com/vectojs/vectojs) | [chore(release): graph-layout 0.2.0 and knowledge-graph 0.3.0](https://github.com/vectojs/vectojs/pull/558) | `2026-08-17` |
+| [**vectojs/vectojs-skills**](https://github.com/vectojs/vectojs-skills) | [docs: teach graph skills new APIs](https://github.com/vectojs/vectojs-skills/pull/8) | `2026-08-17` |
+| [**vectojs/vectojs-website**](https://github.com/vectojs/vectojs-website) | [docs: publish graph API references](https://github.com/vectojs/vectojs-website/pull/39) | `2026-08-17` |
+| [**vectojs/vectojs-docs**](https://github.com/vectojs/vectojs-docs) | [docs: document graph mutation and model APIs](https://github.com/vectojs/vectojs-docs/pull/3) | `2026-08-17` |
+| [**vectojs/vectojs**](https://github.com/vectojs/vectojs) | [chore(graph-layout): separate tests and remove demo](https://github.com/vectojs/vectojs/pull/556) | `2026-08-17` |
+| [**vectojs/vectojs-gallery**](https://github.com/vectojs/vectojs-gallery) | [fix(chat): keep FPS at display cadence](https://github.com/vectojs/vectojs-gallery/pull/23) | `2026-08-17` |
+| [**vectojs/vectojs-gallery**](https://github.com/vectojs/vectojs-gallery) | [feat(chat): add canvas-native document search](https://github.com/vectojs/vectojs-gallery/pull/21) | `2026-08-17` |
 <!-- EXTERNAL_CONTRIBUTIONS:END -->
 
 ### 📦 Package Installation

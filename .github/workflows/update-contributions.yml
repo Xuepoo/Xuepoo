@@ -24,9 +24,9 @@ jobs:
           prs_json=$(gh search prs \
             --author="${{ github.repository_owner }}" \
             --merged \
-            "NOT user:${{ github.repository_owner }}" \
             --limit 10 \
-            --json title,url,repository,closedAt)
+            --json title,url,repository,closedAt \
+            -- "-user:${{ github.repository_owner }}")
 
           # Format into markdown table
           python3 -c "
