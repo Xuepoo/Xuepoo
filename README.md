@@ -35,12 +35,17 @@
 <!-- EXTERNAL_CONTRIBUTIONS:START -->
 | Repository | Language | Description |
 | :--- | :---: | :--- |
+| [**bitty-terminal/bitty-docs**](https://github.com/bitty-terminal/bitty-docs) | `Just` | Canonical product, architecture, security, RFC, and engineering documentation for Bitty |
+| [**bitty-terminal/bitty-plugin-template**](https://github.com/bitty-terminal/bitty-plugin-template) | `Just` | Starter template for independent Bitty plugin repositories |
+| [**bitty-terminal/bitty-mcp**](https://github.com/bitty-terminal/bitty-mcp) | `Just` | MCP adapter for Bitty debug and command protocols |
+| [**bitty-terminal/bitty-devtools**](https://github.com/bitty-terminal/bitty-devtools) | `Just` | Developer tools and debug frontend for Bitty |
+| [**bitty-terminal/bitty-plugin-sdk**](https://github.com/bitty-terminal/bitty-plugin-sdk) | `Just` | SDK, typings, test harness, and tooling for Bitty plugins |
+| [**bitty-terminal/bitty-website**](https://github.com/bitty-terminal/bitty-website) | `CSS` | Official Bitty website and published documentation frontend |
+| [**bitty-terminal/bitty**](https://github.com/bitty-terminal/bitty) | `Just` | Programmable terminal runtime and core implementation |
 | [**braedonsaunders/codeflow**](https://github.com/braedonsaunders/codeflow) | `HTML` | Paste any GitHub URL → interactive architecture map. See how files connect, find what breaks if you change something. No install, no accounts — runs entirely in your browser. |
 | [**alpinejs/alpine**](https://github.com/alpinejs/alpine) | `HTML` | A rugged, minimal framework for composing JavaScript behavior in your markup. |
 | [**konvajs/konva**](https://github.com/konvajs/konva) | `TypeScript` | Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications. |
 | [**Simon-He95/markstream-vue**](https://github.com/Simon-He95/markstream-vue) | `Vue` | Multi-framework streaming Markdown renderers for AI apps: Vue/Nuxt, React/Next.js, Svelte, and Angular, with Mermaid, KaTeX, stream-diffs code blocks, safe HTML, and low-jitter updates. |
-| [**software-mansion-labs/react-native-streamdown**](https://github.com/software-mansion-labs/react-native-streamdown) | `TypeScript` | Markdown streaming for React Native |
-| [**weizhenye/Danmaku**](https://github.com/weizhenye/Danmaku) | `JavaScript` | A high-performance JavaScript danmaku engine. 高性能弹幕引擎库 |
 <!-- EXTERNAL_CONTRIBUTIONS:END -->
 
 ### 📦 Package Installation
