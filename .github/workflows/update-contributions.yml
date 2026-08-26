@@ -26,7 +26,7 @@ jobs:
             --merged \
             --limit 30 \
             --json repository \
-            -- "-user:${{ github.repository_owner }}" "-owner:vectojs" "-owner:vemjs")
+            -- "-user:${{ github.repository_owner }}" "-owner:vectojs" "-owner:vemjs" "-owner:bitty-terminal")
 
           # Format into markdown table
           python3 -c "
