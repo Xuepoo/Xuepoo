@@ -27,8 +27,9 @@
 | Repository | Language | Description |
 | :--- | :---: | :--- |
 | [**vectojs**](https://github.com/vectojs/vectojs) | `TypeScript` | Canvas-native UI runtime with Virtual Math Tree & WebGL/WebGPU backends |
-| [**vectomancy**](https://github.com/Xuepoo/vectomancy) | `Rust` | Generative curve equation rendering engine |
+| [**bitty**](https://github.com/bitty-terminal/bitty) | `Rust` | A highly scalable terminal emulator |
 | [**carryctx**](https://github.com/Xuepoo/carryctx) | `Rust` | Persistent project context for coding agents |
+| [**vectomancy**](https://github.com/Xuepoo/vectomancy) | `Rust` | Generative curve equation rendering engine |
 
 ### 🚀 Contributed Repositories
 
