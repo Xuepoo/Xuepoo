@@ -36,13 +36,8 @@
 <!-- EXTERNAL_CONTRIBUTIONS:START -->
 | Repository | Language | Description |
 | :--- | :---: | :--- |
+| [**CapGlyph/capglyph-cli**](https://github.com/CapGlyph/capglyph-cli) | `Rust` | Invisible structural watermark for images — proof of origin, leak tracing, tamper detection |
 | [**braedonsaunders/codeflow**](https://github.com/braedonsaunders/codeflow) | `HTML` | Paste any GitHub URL → interactive architecture map. See how files connect, find what breaks if you change something. No install, no accounts — runs entirely in your browser. |
-| [**alpinejs/alpine**](https://github.com/alpinejs/alpine) | `HTML` | A rugged, minimal framework for composing JavaScript behavior in your markup. |
-| [**konvajs/konva**](https://github.com/konvajs/konva) | `TypeScript` | Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications. |
-| [**jonobr1/two.js**](https://github.com/jonobr1/two.js) | `JavaScript` | A renderer agnostic two-dimensional drawing api for the web |
-| [**Simon-He95/markstream-vue**](https://github.com/Simon-He95/markstream-vue) | `Vue` | Multi-framework streaming Markdown renderers for AI apps: Vue/Nuxt, React/Next.js, Svelte, and Angular, with Mermaid, KaTeX, stream-diffs code blocks, safe HTML, and low-jitter updates. |
-| [**software-mansion-labs/react-native-streamdown**](https://github.com/software-mansion-labs/react-native-streamdown) | `TypeScript` | Markdown streaming for React Native |
-| [**weizhenye/Danmaku**](https://github.com/weizhenye/Danmaku) | `JavaScript` | A high-performance JavaScript danmaku engine. 高性能弹幕引擎库 |
 <!-- EXTERNAL_CONTRIBUTIONS:END -->
 
 ### 📦 Package Installation
