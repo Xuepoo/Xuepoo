@@ -37,7 +37,6 @@
 | Repository | Language | Description |
 | :--- | :---: | :--- |
 | [**CapGlyph/capglyph-cli**](https://github.com/CapGlyph/capglyph-cli) | `Rust` | Invisible structural watermark for images — proof of origin, leak tracing, tamper detection |
-| [**braedonsaunders/codeflow**](https://github.com/braedonsaunders/codeflow) | `HTML` | Paste any GitHub URL → interactive architecture map. See how files connect, find what breaks if you change something. No install, no accounts — runs entirely in your browser. |
 <!-- EXTERNAL_CONTRIBUTIONS:END -->
 
 ### 📦 Package Installation
