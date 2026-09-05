@@ -27,6 +27,10 @@ jobs:
             --limit 30 \
             --json repository \
             -- "-owner:vectojs" "-owner:vemjs" "-owner:bitty-terminal" "-owner:${{ github.repository_owner }}")
+          echo "DEBUG gh version: $(gh --version | head -1)"
+          echo "DEBUG prs_json length: ${#prs_json}"
+          echo "DEBUG first 200: ${prs_json:0:200}"
+          echo "DEBUG last 200: ${prs_json: -200}"
 
           # Format into markdown table
           python3 -c "
