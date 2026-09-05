@@ -32,11 +32,6 @@ jobs:
             --json repository \
             -- "-owner:vectojs" "-owner:vemjs" "-owner:bitty-terminal" "-owner:${{ github.repository_owner }}")
 
-          echo "DEBUG auth: $(gh api user --jq .login)"
-          echo "DEBUG prs_json length: ${#prs_json}"
-          echo "DEBUG unique repos:"
-          echo "$prs_json" | python3 -c "import json,sys; d=json.load(sys.stdin); print(len(d), 'PRs'); [print('  ', p['repository']['nameWithOwner']) for p in d]"
-
           # Format into markdown table
           python3 -c "
           import json, re, subprocess
