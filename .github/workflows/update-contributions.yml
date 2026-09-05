@@ -30,7 +30,7 @@ jobs:
             --merged \
             --limit 30 \
             --json repository \
-            -- "-owner:vectojs" "-owner:vemjs" "-owner:bitty-terminal" "-owner:${{ github.repository_owner }}")
+            -- "-owner:vectojs" "-owner:vemjs" "-owner:bitty-terminal" "-owner:CapGlyph" "-owner:${{ github.repository_owner }}")
 
           # Format into markdown table
           python3 -c "
