@@ -37,6 +37,8 @@
 | Repository | Language | Description |
 | :--- | :---: | :--- |
 | [**CapGlyph/capglyph-cli**](https://github.com/CapGlyph/capglyph-cli) | `Rust` | Invisible structural watermark for images — proof of origin, leak tracing, tamper detection |
+| [**CapGlyph/capglyph-docs**](https://github.com/CapGlyph/capglyph-docs) | `Unknown` |  |
+| [**CapGlyph/capglyph-paper**](https://github.com/CapGlyph/capglyph-paper) | `Python` | CapGlyph paper — academic paper repository for CapGlyph (migrated from sigil-paper) |
 <!-- EXTERNAL_CONTRIBUTIONS:END -->
 
 ### 📦 Package Installation
