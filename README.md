@@ -2,10 +2,16 @@ Hi, I'm Xuepoo, you can call me "Swepoo".
 I am currently an undergraduate student majoring in software engineering. Enjoys incorporating mathematical thinking into software development.
 
 <!-- 📊 Stats & Language Breakdown -->
-|  |  |
-| :---: | :---: |
-| <img src="https://raw.githubusercontent.com/Xuepoo/Xuepoo/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="Profile Details" /> | <img src="https://raw.githubusercontent.com/Xuepoo/Xuepoo/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="100%" alt="Most Commit Language" /> |
-| <img src="https://raw.githubusercontent.com/Xuepoo/Xuepoo/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="100%" alt="Repos Per Language" /> | <img src="https://raw.githubusercontent.com/Xuepoo/Xuepoo/main/profile-summary-card-output/tokyonight/3-stats.svg" width="100%" alt="Stats Card" /> |
+<table>
+  <tr>
+    <td width="50%"><img src="https://raw.githubusercontent.com/Xuepoo/Xuepoo/main/profile-summary-card-output/tokyonight/0-profile-details.svg" width="340" height="200" alt="Profile Details" /></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/Xuepoo/Xuepoo/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="340" height="200" alt="Most Commit Language" /></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="https://raw.githubusercontent.com/Xuepoo/Xuepoo/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="340" height="200" alt="Repos Per Language" /></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/Xuepoo/Xuepoo/main/profile-summary-card-output/tokyonight/3-stats.svg" width="340" height="200" alt="Stats Card" /></td>
+  </tr>
+</table>
 
 ### 🛠️ Repositories
 

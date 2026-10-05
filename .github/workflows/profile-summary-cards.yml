@@ -22,3 +22,5 @@ jobs:
           BRANCH_NAME: "main"
           UTC_OFFSET: 8
           THEME: tokyonight
+      - name: Make card backgrounds transparent
+        run: bash scripts/make-profile-cards-transparent.sh
